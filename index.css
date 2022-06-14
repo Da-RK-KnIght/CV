@@ -1,0 +1,65 @@
+ h1{
+ text-align:center ;
+ font-family:"cursive";
+ margin:20%;
+ color:#66bfbf;
+ font-size:400%;
+ }
+ .bg{
+ position:absolute ;
+ top:20%;
+ left:0px;
+ height:14%;
+ width:30%;
+ 
+ 
+ }
+ .bg_up{
+ position:absolute ;
+ top:0px;
+ right:0px;
+ height:14%;
+ width:30%;
+ }
+ .m{
+ height:100%;
+ width:100%;
+ }
+ .d{
+ position:fixed;
+ 
+ position:fixed;
+ }
+ .contact{
+ display:inline ;
+ text-decoration:none;
+ color:inherit ;
+ 
+ }
+ .about{
+ display:inline ;
+ text-decoration:none !important ;
+ color:red;
+ all: unset;
+ 
+ }
+ body{
+ background-color:#d8f9ff;
+ 
+ }
+ .p{
+ 
+ 
+ text-align:center ;
+ position:relative ;
+ bottom:50px;
+ color:#66bfbf;
+ font-weight:normal ;
+ 
+ }
+ div{
+ position:relative ;
+ top:10px;
+ position:fixed;
+ }
+ 
